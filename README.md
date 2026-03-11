@@ -179,7 +179,6 @@ Create `.env` file
 DATABASE_URL=mysql+pymysql://root:@127.0.0.1:3306/url_shortener
 BASE_URL=http://127.0.0.1:8001
 
-
 REDIS_HOST=localhost
 REDIS_PORT=6379
 REDIS_DB=0
@@ -194,7 +193,6 @@ https://google.com
 Short URL:
 http://127.0.0.1:8001/aB12Cd
 
----
 ---
 
 # Future Improvements
