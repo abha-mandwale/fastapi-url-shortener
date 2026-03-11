@@ -17,7 +17,7 @@ A simple URL shortener built with FastAPI, MySQL, and Redis.
 - SQLAlchemy
 - Pydantic
 - Uvicorn
-- Redis
+- Redis 
 
 ## Setup
 
