@@ -103,12 +103,19 @@ Returns statistics for a specific short URL.
 
 # System Architecture
 Client
+
 ↓
+
 FastAPI API Server
+
 ↓
+
 Redis Cache (for fast redirects)
+
 ↓
+
 MySQL Database (persistent storage)
+
 
 ### Flow
 
